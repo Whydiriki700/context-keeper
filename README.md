@@ -1,3 +1,5 @@
+![context-keeper](assets/preview.png)
+
 # Context Keeper
 
 **Sessions end. Working memory should not.**
